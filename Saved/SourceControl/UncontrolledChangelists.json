@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Unreal Courses/WarehouseWreckage/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Unreal Courses/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
+				"C:/Unreal Courses/WarehouseWreckage/Content/BP_Projectile.uasset",
+				"C:/Unreal Courses/WarehouseWreckage/Content/MainMap.umap",
+				"C:/Unreal Courses/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"C:/Unreal Courses/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/BP_Barrel_Blueprint.uasset",
+				"C:/Unreal Courses/WarehouseWreckage/Content/BP_Barrel_Blueprint.uasset"
+			]
+		}
+	]
+}
